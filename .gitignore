@@ -1,0 +1,20 @@
+# maven
+target
+
+# OS X
+.DS_Store
+
+# intellij
+.idea
+*.iml
+
+# eclipse
+.project
+.classpath
+.settings
+
+# editors
+*.sublime-project
+*.sublime-workspace
+*~
+
